@@ -1,0 +1,16 @@
+
+5- E - resposta certa.
+
+A) –2, 1, 4, 7, 10 - Meu "i" não pode passar do 7, Pois o programa está nos dizendo que o loop só pode ir até menor igual a 7 (i <= 7).
+
+B) –5, –2, 1, 4, 10 - Meu "i" não pode passar do 7, Pois o programa está nos dizendo que o loop só pode ir até menor igual a 7 (i <= 7).
+
+C) –2, 1, 4, 7 - Quando meu programa da o primeiro loop, ele ja armazena o "-5", pois isso essa está incorreta.
+
+D) –5, –2, 1, 4 - Meu "i" ainda poderia dar mais um loop, por isso está incorreta. 
+
+E) –5, –2, 1, 4, 7  - Correta, pois é a unica que se representa corretamento o que o programa pede. 
+
+
+
+4 - C - resposta certa. Pois quando o codigo pediu para verificar 21 < 21 iria torna false pois 21 não é maior que 21, mas por causa do ! ele inverteu o false para true e quando o programa pede para retorna um numero acaba voltando 1 se o resulta fosse false iria retorna 0.
